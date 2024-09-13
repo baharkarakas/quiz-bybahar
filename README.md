@@ -1,4 +1,6 @@
 # React + Vite
+https://quiz-bybahar.netlify.app
+![Ekran görüntüsü 2024-09-13 111733](https://github.com/user-attachments/assets/5fcb89e2-7e4d-4b0b-a1e5-72f1ed6a0173)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
